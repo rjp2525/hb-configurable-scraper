@@ -1,0 +1,22 @@
+{
+  "name": "hb-configurable-scraper",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Web scraper for the a friends mobile application database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reno Philibert <hello@reno.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.0",
+    "firebase-admin": "^10.0.2",
+    "mailgun-js": "^0.22.0",
+    "minimist": "^1.2.6",
+    "nodemailer": "^6.7.3",
+    "nodemailer-express-handlebars": "^5.0.0"
+  }
+}

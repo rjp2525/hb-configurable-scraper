@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Some Site Name",
+    "url": "https://somesitename.com",
+    "selector": "#post-939 > div > div > div:nth-child(1) > p.has-text-align-center.has-large-font-size > strong > mark",
+    "document_id": "FirebaseDocumentID"
+  },
+  {
+    "name": "Other Site Name",
+    "url": "https://othersitename.com",
+    "selector": "#main > section.banner-callout > div > div > div > span.banner-home > span",
+    "document_id": "OtherFirebaseDocumentID"
+  }
+]
